@@ -1,0 +1,9 @@
+name: deathmatchPgVer
+version: '${version}'
+main: org.gacstudio.deathmgac.deathmatchpgver.DeathmatchPgVer
+api-version: '1.20'
+commands:
+  deathMatch:
+    description: GacDeathMatch를 제어합니다.
+    usage: /deathMatch <start|help|ready>
+config: config.yml

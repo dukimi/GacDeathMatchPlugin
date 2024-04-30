@@ -1,0 +1,4 @@
+# Please enter the world name.
+# There must be only one world on the server for the plugin to work properly.
+# If you do not enter anything in worldName, the level-name value from server.properties is automatically assigned.
+worldName:
